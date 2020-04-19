@@ -11,7 +11,11 @@ body {
 
 .image {
     width: 370 px;
-    margin-top: 50px;
+    margin-top: 30px;
+}
+
+.image2 {
+    scale:auto;
 }
 
 @media (max-width : 770px){

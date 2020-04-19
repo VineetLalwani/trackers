@@ -18,8 +18,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "predeploy": "npm run built",
-    "deploy": "gh-pages -d built",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,7 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0",
     "react-app-rewired": "^2.1.5"
   }
 }
