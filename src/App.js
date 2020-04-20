@@ -8,7 +8,7 @@ import { Cards,Chart,CountryPicker} from './components';
 import styles from './App.module.css';
 import { fetchData } from './api'
 
-import coronaImage from './images/images3.jpg';
+import coronaImage from './images/image.jpg';
 
 
 
